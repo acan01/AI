@@ -1,4 +1,6 @@
-# AI智能对话-Chat智能对话+AI绘图
+#
+AI智能对话-Chat智能对话+AI绘图
+授权请联系wx:Y85136926
 源码下载:https://pan.ciyundata.com/f/mxSA/%E5%AE%8C%E6%95%B4%E5%8C%85.zip
 #### Description
 AI演示站（要后台演示的帐号密码可以加wx获取）:
